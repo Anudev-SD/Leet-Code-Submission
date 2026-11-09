@@ -38,3 +38,19 @@ Every submission represents a learning opportunity. I continuously work on impro
 ---
 
 **Keep Learning | Keep Practicing | Keep Improving** 💡
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+<!---LeetCode Topics End-->
