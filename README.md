@@ -79,4 +79,8 @@ Every submission represents a learning opportunity. I continuously work on impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
