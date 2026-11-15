@@ -84,4 +84,5 @@ Every submission represents a learning opportunity. I continuously work on impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
