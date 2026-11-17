@@ -52,6 +52,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | [0005-longest-palindromic-substring](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ Every submission represents a learning opportunity. I continuously work on impro
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0009-palindrome-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
