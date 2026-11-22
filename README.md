@@ -66,6 +66,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,8 @@ Every submission represents a learning opportunity. I continuously work on impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0011-container-with-most-water/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
