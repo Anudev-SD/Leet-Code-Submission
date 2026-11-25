@@ -69,6 +69,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | [0011-container-with-most-water](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | [0005-longest-palindromic-substring](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ Every submission represents a learning opportunity. I continuously work on impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anudev-SD/Leet-Code-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
